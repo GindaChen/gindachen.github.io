@@ -1,4 +1,4 @@
-title: After AGI
+title: "@GindaChen"
 baseURL: "https://gindachen.github.io/"
 theme: PaperModX
 
@@ -13,7 +13,7 @@ params:
     enabled: true
     title: Junda Chen
     subtitle: |
-      **Bio**: UCSD CSE 1st year PhD student. <br>
+      UCSD CSE 1st year PhD student. <br>
       **Research**: LLM System, Database System. <br><br>
       
       ### News
