@@ -1,4 +1,5 @@
 ---
+slug: launch
 title: |
     Launching 🚀
 draft: false
