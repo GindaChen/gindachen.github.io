@@ -1,0 +1,18 @@
+<div class="publication-reference" style="text-align: justify;" data-topic="{{ .Params.topic }}">
+    <p>
+    <a href="{{ .Get "paperLink" }}">{{ .Get "title" }}</a><br>
+    {{ .Inner | markdownify }}<br>
+    <strong>{{ .Get "venue" }}</strong>
+    {{ with .Get "award" }}
+        <strong style="color: red;">({{ . }})</strong>
+    {{ end }}
+
+        <br>
+    {{ with .Get "codeLink" }}
+        [<a href="{{ . }}">code</a>]
+    {{ end }}
+    {{ with .Get "project" }}
+        [<a href="{{ . }}">project</a>]
+    {{ end }}
+    </p>
+</div>
