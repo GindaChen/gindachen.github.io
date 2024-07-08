@@ -1,0 +1,177 @@
+title: "@GindaChen"
+baseURL: "https://gindachen.github.io/"
+theme: PaperModX
+
+googleAnalytics: 'G-SWPWL9EDFY'
+enableRobotsTXT: true
+enableEmoji: true
+
+params:
+  repo: https://github.com/GindaChen/gindachen.github.io # for version history
+  ShowViewHistory: true
+  profileMode:
+    enabled: true
+    title: Junda Chen
+    subtitle: |
+      UCSD CSE 1st year PhD student. <br>
+      **Research**: LLM System, Database System. <br><br>
+      
+      ### News
+      
+      **2024/03**: [DistServe](https://hao-ai-lab.github.io/blogs/distserve/) accepted in OSDI24! :tada:
+      
+      **2023/09**: Join UCSD CSE as a PhD student!
+    imageUrl: "https://avatars.githubusercontent.com/u/32371474?v=4"
+    imageTitle: My image
+    imageWidth: 200
+    imageHeight: 200
+    buttons:
+      - name: Posts
+        url: /posts/
+      - name: Publications
+        url: /publications/
+      - name: Photos
+        url: /photos/
+  ShowShareButtons: true
+  fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+      keys: ["title", "permalink", "summary", "content"]
+
+
+  description: "GindaChen"
+  author: GindaChen
+  images:
+    - cover.png
+  favicon: favicon.ico
+  #logo:
+  #  icon: images/logo.svg
+  DateFormat: "2006-01-02"
+  useCustomAnalytics: true
+  mainSections:
+    - posts
+    - photos
+    - publications
+
+  # theme params
+  DisableLanguageSwitch: false
+  ShowToc: true
+  TocOpen: true
+  ShowBreadCrumbs: false # TODO: Make the breadcurmbs better in theme! The breadcumbs are too ugly...
+  TocSide: right
+  EnableInstantClick: true
+  EnableImageZoom: true
+  ShareButtons:
+    - twitter
+    # - linkedin
+    - telegram
+  ShowReadingTime: true
+  ShowWordCount: true
+  ShowCodeCopyButtons: true
+  ShowPostNavLinks: true
+  Email: junda@ucsd.edu
+
+  socialIcons:
+    - name: github-simple
+      url: "https://github.com/gindachen"
+    - name: twitter-simple
+      url: "https://twitter.com/Junda_Chen_"
+    - name: linkedin-simple
+      url: "https://www.linkedin.com/in/junda-chen/"
+    - name: googlescholar
+      url: "https://scholar.google.com/citations?user=T4DPcCEAAAAJ&hl=en"
+    # - name: telegram-simple
+    #   url: "https://t.me/reorx_share"
+    # - name: rss-simple
+    #   url: "feed.xml"
+    - name: gmail
+      url: "junda@ucsd.edu"
+
+  socialAccounts:
+    twitter:
+      username: Junda_Chen_
+
+  homeInfoParams:
+    Title: "Junda Chen"
+    Content: |
+      **Bio:** UCSD CSE 1st year PhD student. 
+      
+      **Research Interest**: LLM System. Focus on building efficient and scalable systems for modern machine learning applications.
+
+      ### News
+
+      - **2024/03**: DistServe accepted in OSDI24 ! :tada:
+      - **2023/09**: Join UCSD CSE as a PhD student !
+  
+  # TODO: Work on making remark42 work
+  # commentSystems:
+    # disqus:
+    #   shortname: gindachen
+    # remark42:
+    #   url: https://remark42.reorx.com
+    #   site: reorx.github.io
+    # telegramWidget:
+    #   channel: reorx_share
+    #   accentColor: "9077e1"
+    #   limit: 20
+  # defaultCommentSystems:
+    # disqus: true
+    # remark42: true
+
+outputs:
+    home:
+        - HTML
+        # - RSS
+        - JSON # is necessary
+
+permalinks:
+  notes: /:section/:year/:month/:slugorfilename
+
+# prefer feed.xml rather than index.xml
+# outputFormats:
+#   RSS:
+#     mediatype: "application/rss"
+#     baseName: "feed"
+
+menu:
+  main:
+    - name: About
+      url: /about
+      weight: 50
+    - name: Posts
+      url: /posts/
+      weight: 100
+    - name: Publications
+      url: /publications/
+      weight: 200
+    - name: Photos
+      url: /photos/
+      weight: 300
+    - name: Photos
+      url: /photos/
+      weight: 300
+    # - name: Archives
+    #   url: /archives/
+    #   weight: 400
+    - name: Search
+      url: /search/
+      weight: 500
+
+languages:
+  en:
+    languageName: "English"
+  zh:
+    languageName: "中文"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: true
+    noClasses: false
