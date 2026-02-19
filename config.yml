@@ -2,7 +2,9 @@ title: "@GindaChen"
 baseURL: "https://gindachen.github.io/"
 theme: PaperModX
 
-googleAnalytics: 'G-SWPWL9EDFY'
+services:
+  googleAnalytics:
+    id: 'G-SWPWL9EDFY'
 enableRobotsTXT: true
 enableEmoji: true
 
@@ -133,7 +135,7 @@ outputs:
         - JSON # is necessary
 
 permalinks:
-  notes: /:section/:year/:month/:slugorfilename
+  notes: /:section/:year/:month/:slugorcontentbasename
 
 # prefer feed.xml rather than index.xml
 # outputFormats:
