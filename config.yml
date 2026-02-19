@@ -15,10 +15,16 @@ params:
     enabled: true
     title: Junda Chen
     subtitle: |
-      UCSD CSE 2nd year PhD student. <br>
-      **Research**: Efficient LLM Serving System. <br><br>
+      UCSD CSE 3rd year PhD student. <br>
+      **Research**: Efficient LLM Serving System, LLM Reasoning & Agent Systems. <br><br>
       
       ### News
+
+      **2026/01**: [DistCA](https://arxiv.org/abs/2504.19223) accepted in MLSys'26! :tada:
+
+      **2025/12**: [Certaindex/Dynasor](https://arxiv.org/abs/2412.20993) accepted in NeurIPS'25! :tada:
+
+      **2025/06**: Summer intern at Snowflake!
 
       **2025/03**: Excited to see [DistServe](https://hao-ai-lab.github.io/blogs/distserve/) adopted by [NVIDIA Dynamo](https://nvidianews.nvidia.com/news/nvidia-dynamo-open-source-library-accelerates-and-scales-ai-reasoning-models) in [GTC'25](https://www.youtube.com/live/_waPvOwL9Z8?si=6WzJWxwgxXoga501&t=3307)! :tada:
 

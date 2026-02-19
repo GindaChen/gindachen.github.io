@@ -6,6 +6,22 @@ disableToc: true
 
 ## 📄 Selected Publications 
 
+#### 2026
+
+{{< publication title="A benchmark of expert-level academic questions to assess AI capabilities" venue="Nature 2026" paperLink="https://www.nature.com/articles/s41586-025-08588-y" codeLink="" award="" project="" data-topic="Selected, AI Benchmarks" >}}
+Long Phan, ..., **Junda Chen**, ..., Dan Hendrycks (HLE Contributors Consortium)
+{{< /publication >}}
+
+{{< publication title="Efficient Long-context Language Model Training by Core Attention Disaggregation" venue="MLSys 2026" paperLink="https://arxiv.org/abs/2504.19223" codeLink="" award="" project="" data-topic="Selected, Large Language Models, ML Systems" >}}
+Yonghao Zhuang, **Junda Chen**, Bo Pang, Yi Gu, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang
+{{< /publication >}}
+
+#### 2025
+
+{{< publication title="Efficiently Serving LLM Reasoning Programs with Certaindex" venue="NeurIPS 2025" paperLink="https://arxiv.org/abs/2412.20993" codeLink="" award="" project="" data-topic="Selected, Large Language Models, LLM Reasoning" >}}
+Yichao Fu, **Junda Chen**, Siqi Zhu, Zheyu Fu, Zhongdongming Dai, Yonghao Zhuang, Yian Ma, Aurick Qiao, Tajana Rosing, Ion Stoica, Hao Zhang
+{{< /publication >}}
+
 #### 2024
 
 {{< publication title="DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving" venue="OSDI 2024" paperLink="https://arxiv.org/pdf/2401.09670v1.pdf" codeLink="" award="" project="" data-topic="Selected, Large Language Models, ML Systems" >}}
@@ -22,6 +38,10 @@ Rogers Jeffrey Leo John, Dylan Bacon, **Junda Chen**, Ushmal Ramesh, Jiatong Li,
 
 
 ## Other Publications
+
+{{< publication title="Mnemosyne: Parallelization Strategies for Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations" venue="Preprint" paperLink="https://arxiv.org/abs/2409.17264" codeLink="" award="" project="" data-topic="Large Language Models, Long Context" >}}
+Amey Agrawal, Junda Chen, Íñigo Goiri, Ramachandran Ramjee, Chaojie Zhang, Alexey Tumanov, Esha Choukse
+{{< /publication >}}
 
 <!-- Resource-centric serverless computing -->
 <!-- Zhiyuan Guo, Zachary Blanco, Junda Chen, Jinmou Li, Zerui Wei, Bili Dong, Ishaan Pota, Mohammad Shahrad, Harry Xu, Yiying Zhang -->
