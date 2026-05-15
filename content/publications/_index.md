@@ -8,10 +8,6 @@ disableToc: true
 
 #### 2026
 
-{{< publication title="A benchmark of expert-level academic questions to assess AI capabilities" venue="Nature 2026" paperLink="https://www.nature.com/articles/s41586-025-08588-y" codeLink="" award="" project="" data-topic="Selected, AI Benchmarks" >}}
-Long Phan, ..., **Junda Chen**, ..., Dan Hendrycks (HLE Contributors Consortium)
-{{< /publication >}}
-
 {{< publication title="Efficient Long-context Language Model Training by Core Attention Disaggregation" venue="MLSys 2026" paperLink="https://arxiv.org/abs/2504.19223" codeLink="" award="" project="" data-topic="Selected, Large Language Models, ML Systems" >}}
 Yonghao Zhuang, **Junda Chen**, Bo Pang, Yi Gu, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang
 {{< /publication >}}
@@ -39,17 +35,6 @@ Rogers Jeffrey Leo John, Dylan Bacon, **Junda Chen**, Ushmal Ramesh, Jiatong Li,
 
 ## Other Publications
 
-{{< publication title="Mnemosyne: Parallelization Strategies for Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations" venue="Preprint" paperLink="https://arxiv.org/abs/2409.17264" codeLink="" award="" project="" data-topic="Large Language Models, Long Context" >}}
-Amey Agrawal, Junda Chen, Íñigo Goiri, Ramachandran Ramjee, Chaojie Zhang, Alexey Tumanov, Esha Choukse
-{{< /publication >}}
-
-<!-- Resource-centric serverless computing -->
-<!-- Zhiyuan Guo, Zachary Blanco, Junda Chen, Jinmou Li, Zerui Wei, Bili Dong, Ishaan Pota, Mohammad Shahrad, Harry Xu, Yiying Zhang -->
-<!-- arXiv preprint arXiv:2206.13444 -->
-{{< publication title="Resource-centric serverless computing" venue="Preprint" paperLink="https://arxiv.org/pdf/2206.13444.pdf" codeLink="" award="" project="" data-topic="Selected, Serverless Computing" >}}
-Zhiyuan Guo, Zachary Blanco, **Junda Chen**, Jinmou Li, Zerui Wei, Bili Dong, Ishaan Pota, Mohammad Shahrad, Harry Xu, Yiying Zhang
-{{< /publication >}}
-
 
 <!-- Understanding Place Identity with Generative AI -->
 {{< publication title="Understanding Place Identity with Generative AI" venue="GIScience 2023" paperLink="https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2023.41" codeLink="" award="" project="" data-topic="Generative AI, Place Identity" >}}
@@ -71,6 +56,24 @@ A Lazarian, Ka Ho Yuen, Ka Wai Ho, **Junda Chen**, Victor Lazarian, Zekun Lu, Bo
 <!-- Statistical tracing of magnetic fields: comparing and improving the techniques -->
 {{< publication title="Statistical tracing of magnetic fields: comparing and improving the techniques" venue="The Astrophysical Journal (2018/09)" paperLink="https://iopscience.iop.org/article/10.3847/1538-4357/aada88" codeLink="" award="" project="" data-topic="Astrophysics" >}}
 Ka Ho Yuen, Junda Chen, Yue Hu, Ka Wai Ho, A Lazarian, Victor Lazarian, Bo Yang, Blakesley Burkhart, Caio Correia, Jungyeon Cho, Bruno Canto, JR De Medeiros
+{{< /publication >}}
+
+
+{{< publication title="A benchmark of expert-level academic questions to assess AI capabilities" venue="Nature 2026" paperLink="https://www.nature.com/articles/s41586-025-08588-y" codeLink="" award="" project="" data-topic="AI Benchmarks" >}}
+Long Phan, ..., **Junda Chen**, ..., Dan Hendrycks (HLE Contributors Consortium)
+{{< /publication >}}
+
+
+
+{{< publication title="Mnemosyne: Parallelization Strategies for Efficiently Serving Multi-Million Context Length LLM Inference Requests Without Approximations" venue="Preprint" paperLink="https://arxiv.org/abs/2409.17264" codeLink="" award="" project="" data-topic="Large Language Models, Long Context" >}}
+Amey Agrawal, Junda Chen, Íñigo Goiri, Ramachandran Ramjee, Chaojie Zhang, Alexey Tumanov, Esha Choukse
+{{< /publication >}}
+
+<!-- Resource-centric serverless computing -->
+<!-- Zhiyuan Guo, Zachary Blanco, Junda Chen, Jinmou Li, Zerui Wei, Bili Dong, Ishaan Pota, Mohammad Shahrad, Harry Xu, Yiying Zhang -->
+<!-- arXiv preprint arXiv:2206.13444 -->
+{{< publication title="Resource-centric serverless computing" venue="Preprint" paperLink="https://arxiv.org/pdf/2206.13444.pdf" codeLink="" award="" project="" data-topic="Serverless Computing" >}}
+Zhiyuan Guo, Zachary Blanco, **Junda Chen**, Jinmou Li, Zerui Wei, Bili Dong, Ishaan Pota, Mohammad Shahrad, Harry Xu, Yiying Zhang
 {{< /publication >}}
 
 
