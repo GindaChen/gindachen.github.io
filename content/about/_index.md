@@ -8,7 +8,7 @@ I am a 3rd year PhD student at [UCSD CSE](https://cse.ucsd.edu/), working with [
 ## Research Interests
 
 - **LLM Serving Systems** — Disaggregated inference, goodput optimization ([DistServe](https://hao-ai-lab.github.io/blogs/distserve/))
-- **LLM Training Systems** — Disaggregated attention for long-context training ([DistCA](https://arxiv.org/abs/2504.19223))
+- **LLM Training Systems** — Disaggregated attention for long-context training ([DistCA](https://haoailab.com/blogs/distca/))
 - **LLM Reasoning & Agents** — Efficient serving of reasoning programs ([Dynasor/Certaindex](https://arxiv.org/abs/2412.20993))
 - **Database Systems** — Data analytics platforms, query acceleration
 
@@ -16,7 +16,7 @@ I am a 3rd year PhD student at [UCSD CSE](https://cse.ucsd.edu/), working with [
 
 | Project | Area | Venue |
 |---------|------|-------|
-| [DistCA](https://arxiv.org/abs/2504.19223) | Disaggregated LLM training | MLSys'26 |
+| [DistCA](https://haoailab.com/blogs/distca/) | Disaggregated LLM training | MLSys'26 |
 | [Dynasor/Certaindex](https://arxiv.org/abs/2412.20993) | LLM reasoning serving | NeurIPS'25 |
 | [DistServe](https://hao-ai-lab.github.io/blogs/distserve/) | Disaggregated LLM inference | OSDI'24 |
 
