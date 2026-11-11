@@ -2,7 +2,7 @@
 slug: launch
 title: |
     Launching 🚀
-draft: false
+draft: true
 date: "2024-03-25"
 description: "Hello world! Launching my first blog post (placeholder?)"
 tags:

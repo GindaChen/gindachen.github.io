@@ -3,7 +3,7 @@ title: About Me
 description: 
 ---
 
-I am a 3rd year PhD student at [UCSD CSE](https://cse.ucsd.edu/), working with [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) at the [Hao AI Lab](https://hao-ai-lab.github.io/). My research focuses on building efficient and scalable systems for LLMs — from **serving** and **training** to **reasoning & agents**.
+I am a 4th-year PhD student at [UCSD CSE](https://cse.ucsd.edu/), working with [Hao Zhang](https://cseweb.ucsd.edu/~haozhang/) at the [Hao AI Lab](https://hao-ai-lab.github.io/). My research focuses on building efficient and scalable systems for LLMs — from **serving** and **training** to **reasoning & agents**.
 
 ## Research Interests
 
@@ -16,9 +16,10 @@ I am a 3rd year PhD student at [UCSD CSE](https://cse.ucsd.edu/), working with [
 
 | Project | Area | Venue |
 |---------|------|-------|
-| [DistCA](https://haoailab.com/blogs/distca/) | Disaggregated LLM training | MLSys'26 |
-| [Dynasor/Certaindex](https://arxiv.org/abs/2412.20993) | LLM reasoning serving | NeurIPS'25 |
-| [DistServe](https://hao-ai-lab.github.io/blogs/distserve/) | Disaggregated LLM inference | OSDI'24 |
+| [Hawky](https://github.com/hao-ai-lab/hawky) | Open-source real-time personal agent for phones and Ray-Ban Meta glasses | — |
+| [DistCA](/posts/distca/) | Disaggregated LLM training | MLSys'26 |
+| [Dynasor/Certaindex](/posts/dynasor-cot/) | LLM reasoning serving | NeurIPS'25 |
+| [DistServe](/posts/distserve/) | Disaggregated LLM inference | OSDI'24 |
 
 ## Experience
 
@@ -37,4 +38,4 @@ During Madison I also explored astronomy ([Ka Ho Yuen](https://www.khyuen.info/)
 - **DistServe: Disaggregating Prefill and Decoding for Goodput-optimized LLM Serving**. [CUDA Mode](https://www.youtube.com/watch?v=tIPDwUepXcA&t=1338s)
 
 ## Side Projects
-- Alice in the Wondertech. [blog](/posts/alice)
+- Alice in the Wondertech.

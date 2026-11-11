@@ -2,7 +2,7 @@
 slug: alice
 title: |
     Alice's Adventure in the Wondertech
-draft: false
+draft: true
 date: "2024-03-26"
 description: "Alice embarks her journey in the Wondertech, a small startup company, and learns about the world of engineering, leadership, and life."
 tags:
