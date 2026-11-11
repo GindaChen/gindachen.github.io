@@ -16,10 +16,11 @@ params:
     title: Junda Chen
     subtitle: |
       UCSD CSE 4th-year PhD student. <br>
-      **Research**: Efficient LLM Serving System, LLM Reasoning & Agent Systems. <br>
-      **Current project**: [Hawky](https://github.com/hao-ai-lab/hawky), an open-source real-time personal agent for phones and Ray-Ban Meta glasses. <br><br>
+      **Research**: Efficient LLM Serving System, LLM Reasoning & Agent Systems. <br><br>
       
       ### News
+
+      **2026/09**: Released [Hawky](https://github.com/hao-ai-lab/hawky)!
 
       **2026/01**: [DistCA](https://haoailab.com/blogs/distca/) accepted in MLSys'26! :tada:
 
