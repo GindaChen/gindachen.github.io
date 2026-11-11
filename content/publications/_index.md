@@ -4,24 +4,20 @@ disableToc: true
 ---
 
 
-## 📄 Selected Publications 
+## 📄 Selected Publications
 
-#### 2026
-
-{{< publication title="Efficient Long-context Language Model Training by Core Attention Disaggregation" venue="MLSys 2026" paperLink="https://arxiv.org/abs/2504.19223" codeLink="" award="" project="" data-topic="Selected, Large Language Models, ML Systems" >}}
-Yonghao Zhuang, **Junda Chen**, Bo Pang, Yi Gu, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang
-{{< /publication >}}
-
-#### 2025
-
-{{< publication title="Efficiently Serving LLM Reasoning Programs with Certaindex" venue="NeurIPS 2025" paperLink="https://arxiv.org/abs/2412.20993" codeLink="" award="" project="" data-topic="Selected, Large Language Models, LLM Reasoning" >}}
-Yichao Fu, **Junda Chen**, Siqi Zhu, Zheyu Fu, Zhongdongming Dai, Yonghao Zhuang, Yian Ma, Aurick Qiao, Tajana Rosing, Ion Stoica, Hao Zhang
-{{< /publication >}}
-
-#### 2024
+\* Equal contribution.
 
 {{< publication title="DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving" venue="OSDI 2024" paperLink="https://arxiv.org/pdf/2401.09670v1.pdf" codeLink="" award="" project="" data-topic="Selected, Large Language Models, ML Systems" >}}
 Yinmin Zhong, Shengyu Liu, **Junda Chen**, Jianbo Hu, Yibo Zhu, Xuanzhe Liu, Xin Jin, Hao Zhang
+{{< /publication >}}
+
+{{< publication title="Efficient Long-context Language Model Training by Core Attention Disaggregation" venue="MLSys 2026" paperLink="https://arxiv.org/abs/2504.19223" codeLink="" award="" project="" data-topic="Selected, Large Language Models, ML Systems" >}}
+Yonghao Zhuang\*, **Junda Chen**\*, Bo Pang, Yi Gu, Yibo Zhu, Yimin Jiang, Ion Stoica, Eric Xing, Hao Zhang
+{{< /publication >}}
+
+{{< publication title="Efficiently Serving LLM Reasoning Programs with Certaindex" venue="NeurIPS 2025" paperLink="https://arxiv.org/abs/2412.20993" codeLink="" award="" project="" data-topic="Selected, Large Language Models, LLM Reasoning" >}}
+Yichao Fu\*, **Junda Chen**\*, Siqi Zhu, Zheyu Fu, Zhongdongming Dai, Yonghao Zhuang, Yian Ma, Aurick Qiao, Tajana Rosing, Ion Stoica, Hao Zhang
 {{< /publication >}}
 
 <!-- DataChat: An Intuitive and Collaborative Data Analytics Platform -->
@@ -74,23 +70,4 @@ Amey Agrawal, Junda Chen, Íñigo Goiri, Ramachandran Ramjee, Chaojie Zhang, Ale
 <!-- arXiv preprint arXiv:2206.13444 -->
 {{< publication title="Resource-centric serverless computing" venue="Preprint" paperLink="https://arxiv.org/pdf/2206.13444.pdf" codeLink="" award="" project="" data-topic="Serverless Computing" >}}
 Zhiyuan Guo, Zachary Blanco, **Junda Chen**, Jinmou Li, Zerui Wei, Bili Dong, Ishaan Pota, Mohammad Shahrad, Harry Xu, Yiying Zhang
-{{< /publication >}}
-
-
-
-## 🔧 Patents
-
-<!-- Machine learning model selection and explanation for multi-dimensional datasets -->
-<!-- Jignesh Patel, Junda Chen, Dylan Paul Bacon, Jiatong Li, Ushmal Ramesh, Rogers Jeffrey Leo John -->
-<!-- US Patent App (in progress) -->
-
-{{< publication title="Machine learning model selection and explanation for multi-dimensional datasets" venue="US Patent App (in progress)" paperLink="" codeLink="" award="" project="" data-topic="Selected, Machine Learning, Model Selection" >}}
-Jignesh Patel, **Junda Chen**, Dylan Paul Bacon, Jiatong Li, Ushmal Ramesh, Rogers Jeffrey Leo John
-{{< /publication >}}
-
-<!-- Conversational syntax using constrained natural language processing for accessing datasets -->
-<!-- Jignesh Patel, Junda Chen, Dylan Paul Bacon, Jiatong Li, Ushmal Ramesh, Rogers Jeffrey Leo John -->
-<!-- US Patent App (in progress) -->
-{{< publication title="Conversational syntax using constrained natural language processing for accessing datasets" venue="US Patent App (in progress)" paperLink="" codeLink="" award="" project="" data-topic="Selected, Natural Language Processing, Conversational Syntax" >}}
-Jignesh Patel, **Junda Chen**, Dylan Paul Bacon, Jiatong Li, Ushmal Ramesh, Rogers Jeffrey Leo John
 {{< /publication >}}
